@@ -1,0 +1,8 @@
+.Logo{
+    display: flex;
+    width: 100px;
+}
+.nav-link{
+    font-family: 'Poppins-Light';
+    color: white;
+}

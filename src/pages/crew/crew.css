@@ -1,0 +1,10 @@
+.crew-title{
+    font-family: 'Poppins-Light';
+}
+.crew-card{
+    transition: transform 0.3s, filter 0.3s;
+}
+.crew-card:hover{
+    transform: scale(1.1);
+    filter: brightness(1);
+}
