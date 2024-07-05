@@ -18,9 +18,9 @@ const Crew = () => {
 
     },
     {
-      title: 'Nandhu TV',
+      title: 'Nandhu Vinod',
       text: 'Director',
-      imgSrc: 'https://firebasestorage.googleapis.com/v0/b/parakkum-media.appspot.com/o/nandhu.jpg?alt=media&token=684790a0-6f2a-4040-9601-31a30f4702c2',
+      imgSrc: 'https://firebasestorage.googleapis.com/v0/b/parakkum-media.appspot.com/o/nandhu.jpg?alt=media&token=77d7c7c4-7c0b-42ab-a34d-686d9034a514',
 
     },
     {
