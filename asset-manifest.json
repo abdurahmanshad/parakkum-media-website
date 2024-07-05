@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/parakkum-media-website/static/css/main.bbdb2cbf.css",
-    "main.js": "/parakkum-media-website/static/js/main.b458fd4b.js",
+    "main.js": "/parakkum-media-website/static/js/main.68493984.js",
     "static/js/453.25d2c9ba.chunk.js": "/parakkum-media-website/static/js/453.25d2c9ba.chunk.js",
     "static/media/Poppins Light 300.ttf": "/parakkum-media-website/static/media/Poppins Light 300.3fda0a0ef72be930b308.ttf",
     "static/media/Poppins Regular 400.ttf": "/parakkum-media-website/static/media/Poppins Regular 400.9171031e050ecf676c11.ttf",
@@ -13,11 +13,11 @@
     "static/media/mail.svg": "/parakkum-media-website/static/media/mail.7b7fe37ff97e2dc790c505225f1a2205.svg",
     "static/media/x.svg": "/parakkum-media-website/static/media/x.35a773dd386a891d53769cfe26895ae8.svg",
     "main.bbdb2cbf.css.map": "/parakkum-media-website/static/css/main.bbdb2cbf.css.map",
-    "main.b458fd4b.js.map": "/parakkum-media-website/static/js/main.b458fd4b.js.map",
+    "main.68493984.js.map": "/parakkum-media-website/static/js/main.68493984.js.map",
     "453.25d2c9ba.chunk.js.map": "/parakkum-media-website/static/js/453.25d2c9ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bbdb2cbf.css",
-    "static/js/main.b458fd4b.js"
+    "static/js/main.68493984.js"
   ]
 }
